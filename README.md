@@ -1,4 +1,3 @@
-<img width="1668" height="1026" alt="image" src="https://github.com/user-attachments/assets/c0f00239-1ca1-45c9-93cb-7639a3cd3345" />
 ---# 🛍️ Product API — ASP.NET Core Web API (In-Memory Version)
 
 This is a beginner-friendly **ASP.NET Core Web API project** using a **fake in-memory list** to manage product data. Built in 1 day as part of a 2-day learning sprint.
